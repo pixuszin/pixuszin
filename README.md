@@ -1,6 +1,5 @@
 - 🏴 Pentester Web;
 - 💻 Pentester Wireless;
-- 🔎 Memory Hacking;
 - ☠️ Reverse Engineering Malware;
   
 <h1>Tools:</h1>
