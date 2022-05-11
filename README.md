@@ -1,6 +1,6 @@
 - 🏴 Pentester Web;
 - 💻 Pentester Wireless;
-- ☠️ Reverse Engineering Malware;
+- ☠️ Reverse Engineering.
   
 <h1>Tools:</h1>
 
