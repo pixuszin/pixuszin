@@ -1,6 +1,6 @@
 - 🏴 Pentester Web;
 - 💻 Pentester Wireless;
-- ☠️ Reverse Engineering.
+- 💎 Reverse Engineering.
   
 <h1>Programming Tools:</h1>
 
